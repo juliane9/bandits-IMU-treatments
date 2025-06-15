@@ -35,6 +35,4 @@ Off-policy evaluation was performed via:
 ## Key Results
 Thompson Sampling led to improved survival (99% vs. 92%) and LinUCB reduced ICU stay by ~1 hour on average.
 DR and IPS agreed within ~5%, confirming stability.
-More details are included in the final report (report.pdf).
-
-
+More details are included in the final report (report.pdf) and the code for the simulation can be found in the notebook.
